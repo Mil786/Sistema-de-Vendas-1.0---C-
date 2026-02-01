@@ -20,5 +20,5 @@ Este projeto reflete minha transição de carreira da **Administração** para o
 2. **Segurança de Dados:** Prevenção de "crashes" por entradas inválidas do usuário.
 3. **Escalabilidade:** Uso de métodos separados para facilitar futuras manutenções.
 
----
-Desenvolvido por **Milena** como parte dos estudos de Engenharia de Software.
+ --------------------------------------------
+*Este projeto faz parte do meu portfólio de estudos em Beck-end.*
